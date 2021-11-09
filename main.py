@@ -4,8 +4,8 @@ import pytz
 local_tz = pytz.timezone('Europe/Moscow')
 
 # Вставляем api_id и api_hash
-api_id = 7962471
-api_hash = 'f57efb53440a511548826e0dc213eeb7'
+api_id =
+api_hash = ''
 
 # Тут любая строка
 client = TelegramClient('b438e8e5-1705-4143-985a-b50455cb2313', api_id, api_hash)
